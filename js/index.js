@@ -1,1 +1,1 @@
-alert("JS file Linked");
+alert("JS file Linked now");
